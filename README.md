@@ -1,4 +1,5 @@
-# Hi there,I'm Patrick 👋 I'm a Front-end web developer in Chattanooga, TN
+# Hi there,I'm Patrick 👋 
+# I'm a Front-end web developer in Chattanooga, TN
 
 Bio
 
